@@ -46,7 +46,7 @@
     * [Wheels](documentation/fragments-.yft/vehicle-setup/wheels.md)
     * [Export Settings](documentation/fragments-.yft/vehicle-setup/export-settings.md)
   * [Vehicle Shaders](documentation/fragments-.yft/vehicle-shaders.md)
-* [🗂 Drawable Dictionary (.ydd) \[TODO\]](documentation/drawable-dictionary-.ydd-todo.md)
+* [🗂 Drawable Dictionary (.ydd) ](documentation/drawable-dictionary-.ydd/README.md)
 * [💥 Collisions (.ybn)](documentation/collisions-.ybn.md)
 * [🎬 Clip Dictionary (.ycd) \[TODO\]](documentation/clip-dictionary-.ycd-todo.md)
 * [📇 Archetype Definition (.ytyp)](documentation/archetype-definition-.ytyp/README.md)

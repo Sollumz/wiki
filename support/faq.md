@@ -62,7 +62,6 @@ description: Frequently Asked Questions
 ### I'm getting the error `KeyError: 'bpy_prop_collection[key]: key "Principled BSDF" not found'`
 
 * Only the Principled BSDF shader is supported during material conversion operations, anything else must be converted or recreated using Principled BSDF as base.
-* Make sure Blender language is set to **English**.
 
 ***
 

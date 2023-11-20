@@ -4,7 +4,7 @@ Vehicle windows are defined in the physics properties of the window collision. S
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p> window_lf.col | Object Properties > Physics</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p> window_lf.col | Object Properties > Physics</p></figcaption></figure>
 
 </div>
 

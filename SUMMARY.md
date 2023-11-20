@@ -16,7 +16,7 @@
 ## 📚 Tutorials
 
 * [🌐 Creating Static Meshes](tutorials/creating-static-meshes.md)
-* [💥 Creating Static Collisions \[TODO\]](tutorials/creating-static-collisions-todo.md)
+* [💥 Creating Static Collisions](tutorials/creating-static-collisions-todo.md)
 * [🏠 Creating Interiors \[TODO\]](tutorials/creating-interiors-todo.md)
 * [🎸 Creating Props \[TODO\]](tutorials/creating-props-todo.md)
 * [🚙 Creating Vehicles](tutorials/creating-vehicles/README.md)
@@ -46,7 +46,7 @@
     * [Wheels](documentation/fragments-.yft/vehicle-setup/wheels.md)
     * [Export Settings](documentation/fragments-.yft/vehicle-setup/export-settings.md)
   * [Vehicle Shaders](documentation/fragments-.yft/vehicle-shaders.md)
-* [🗂 Drawable Dictionary (.ydd) ](documentation/drawable-dictionary-.ydd/README.md)
+* [🗂 Drawable Dictionary (.ydd)](documentation/drawable-dictionary-.ydd/README.md)
 * [💥 Collisions (.ybn)](documentation/collisions-.ybn.md)
 * [🎬 Clip Dictionary (.ycd) \[TODO\]](documentation/clip-dictionary-.ycd-todo.md)
 * [📇 Archetype Definition (.ytyp)](documentation/archetype-definition-.ytyp/README.md)

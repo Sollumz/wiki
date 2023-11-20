@@ -119,7 +119,7 @@ Used For: Light Rays / God Rays
 | Color                  | Color of the Light Shaft                                         |
 | Intensity              | Intensity of the Light Shaft                                     |
 | Flashiness             | Flags for how fast and if the Light Shaft should flash / flicker |
-| Flags                  |                                                                  |
+| Flags                  | Only Possible flags are 35, 99, 83, 115, 51                      |
 | Fade In Time Start     | When the Light Shaft should begin to appear                      |
 | Fade in time End       | when the Light Shaft is fully visible                            |
 | Fade Out Time Start    | When the Light Shaft should begin fading away                    |
@@ -127,7 +127,6 @@ Used For: Light Rays / God Rays
 | Fade Distance Start    | Distance at which the Light Shaft begins Fading                  |
 | Fade Distance End      | Distance at which the Light Shaft is fully Faded                 |
 | Softness               |                                                                  |
-|                        |                                                                  |
 | Corner A XYZ           | Top Left Corner Coords                                           |
 | Corner B XYZ           | Top Right Corner Coords                                          |
 | Corner C XYZ           | Bottom Right Corner Coords                                       |

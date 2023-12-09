@@ -12,6 +12,7 @@
 
 * [❔ FAQ](support/faq.md)
 * [💬 Getting Help](support/getting-help.md)
+* [⚠ Files not supported by Sollumz](support/files-not-supported-by-sollumz.md)
 
 ## 📚 Tutorials
 

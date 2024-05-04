@@ -12,7 +12,7 @@
 
 * [❔ FAQ](support/faq.md)
 * [💬 Getting Help](support/getting-help.md)
-* [⚠ Files not supported by Sollumz](support/files-not-supported-by-sollumz.md)
+* [⚠️ Files not supported by Sollumz](support/files-not-supported-by-sollumz.md)
 
 ## 📚 Tutorials
 
@@ -47,10 +47,12 @@
     * [Wheels](documentation/fragments-.yft/vehicle-setup/wheels.md)
     * [Export Settings](documentation/fragments-.yft/vehicle-setup/export-settings.md)
   * [Vehicle Shaders](documentation/fragments-.yft/vehicle-shaders.md)
-* [🗂 Drawable Dictionary (.ydd)](documentation/drawable-dictionary-.ydd/README.md)
+* [🗂️ Drawable Dictionary (.ydd)](documentation/drawable-dictionary-.ydd/README.md)
 * [💥 Collisions (.ybn)](documentation/collisions-.ybn.md)
 * [🎬 Clip Dictionary (.ycd) \[TODO\]](documentation/clip-dictionary-.ycd-todo.md)
 * [📇 Archetype Definition (.ytyp)](documentation/archetype-definition-.ytyp/README.md)
   * [Archetype Flags](documentation/archetype-definition-.ytyp/archetype-flags.md)
   * [Archetype Extensions](documentation/archetype-definition-.ytyp/archetype-extensions.md)
-* [🗺 Map Data (.ymap) \[TODO\]](documentation/map-data-.ymap-todo.md)
+* [🗺️ Map Data (.ymap)](documentation/map-data-.ymap-todo.md)
+* [💡 Lighting (.ydr)](documentation/lighting-.ydr/README.md)
+  * [Light Flags](documentation/lighting-.ydr/light-flags.md)

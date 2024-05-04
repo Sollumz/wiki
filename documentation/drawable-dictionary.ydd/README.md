@@ -4,8 +4,8 @@ The Drawable Dictionary is a container that holds a collection of drawables. Its
 
 It is recommended that you read the Drawable documentation page before creating a Drawable Dictionary, as it consists of drawables.
 
-{% content-ref url="../drawables-.ydr/" %}
-[drawables-.ydr](../drawables-.ydr/)
+{% content-ref url="../drawables.ydr/" %}
+[drawables.ydr](../drawables.ydr/)
 {% endcontent-ref %}
 
 ### File Layout

@@ -4,7 +4,7 @@ Each separable part of a Fragment must have an associated collision object in or
 
 ### Rigging Collisions
 
-You link collisions to bones the same way you link Drawable Models to bones as described in [Drawables (.ydr) > Rigging](../drawables-.ydr/rigging.md#linking-bones-to-drawable-models).
+You link collisions to bones the same way you link Drawable Models to bones as described in [Drawables (.ydr) > Rigging](../drawables.ydr/rigging.md#linking-bones-to-drawable-models).
 
 <div align="left">
 

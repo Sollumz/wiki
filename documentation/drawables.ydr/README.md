@@ -1,6 +1,6 @@
 # 🌐 Drawables (.ydr)
 
-Drawables are objects that hold mesh data, skeleton data, and shader data. It can be thought of as the game engine's mesh format. YDR files contain one Drawable and are typically used for static mapping but are also used for dynamic props in some cases. In cases where a prop consists of multiple breakable parts, [Fragment (.yft) ](../fragments-.yft/)objects are used instead.
+Drawables are objects that hold mesh data, skeleton data, and shader data. It can be thought of as the game engine's mesh format. YDR files contain one Drawable and are typically used for static mapping but are also used for dynamic props in some cases. In cases where a prop consists of multiple breakable parts, [Fragment (.yft) ](../fragments.yft/)objects are used instead.
 
 ### File Layout
 

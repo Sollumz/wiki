@@ -2,7 +2,7 @@
 
 Upon importing, you will notice that the vehicle has only one wheel. This is because the game instances (re-uses) `wheel_lf` for all other wheels.&#x20;
 
-Wheel meshes do not have vertex groups but are instead rigged by a Child Of Constraint (as explained in [Drawables > Rigging](../../drawables-.ydr/rigging.md#linking-bones-to-drawable-models)).
+Wheel meshes do not have vertex groups but are instead rigged by a Child Of Constraint (as explained in [Drawables > Rigging](../../drawables.ydr/rigging.md#linking-bones-to-drawable-models)).
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Wheel mesh rigging</p></figcaption></figure>
 

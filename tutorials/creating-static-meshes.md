@@ -1,6 +1,6 @@
 # 🌐 Creating Static Meshes
 
-Game meshes are stored in the [Drawable (.ydr)](../documentation/drawables-.ydr/) file format. Creating Drawables in Sollumz is very simple. This tutorial will walk you through step-by-step.
+Game meshes are stored in the [Drawable (.ydr)](../documentation/drawables.ydr/) file format. Creating Drawables in Sollumz is very simple. This tutorial will walk you through step-by-step.
 
 ### Prerequisite Knowledge
 
@@ -31,7 +31,7 @@ You'll notice that an empty object gets created called "Drawable" and the object
 
 </div>
 
-If you navigate to `Mesh Properties > Sollumz LODs` you'll also notice that the active mesh is automatically assigned to the "High" LOD level. This panel is where you can assign other meshes as LODs. More info on that [here](../documentation/drawables-.ydr/level-of-detail-lods-editing.md). For the sake of this tutorial, we will only be setting the High LOD level.
+If you navigate to `Mesh Properties > Sollumz LODs` you'll also notice that the active mesh is automatically assigned to the "High" LOD level. This panel is where you can assign other meshes as LODs. More info on that [here](../documentation/drawables.ydr/level-of-detail-lods-editing.md). For the sake of this tutorial, we will only be setting the High LOD level.
 
 <div align="left">
 

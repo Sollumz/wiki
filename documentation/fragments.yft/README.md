@@ -4,12 +4,12 @@ Fragments are objects that contain separable parts and react to physics. These o
 
 It's recommended that you read the documentation page on Drawables and collisions first, as Fragments are made up of these objects.
 
-{% content-ref url="../drawables-.ydr/" %}
-[drawables-.ydr](../drawables-.ydr/)
+{% content-ref url="../drawables.ydr/" %}
+[drawables.ydr](../drawables.ydr/)
 {% endcontent-ref %}
 
-{% content-ref url="../collisions-.ybn.md" %}
-[collisions-.ybn.md](../collisions-.ybn.md)
+{% content-ref url="../collisions.ybn.md" %}
+[collisions.ybn.md](../collisions.ybn.md)
 {% endcontent-ref %}
 
 ### File Layout

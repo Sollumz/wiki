@@ -10,7 +10,7 @@ Thank you for using Sollumz, the only GTA V modding suite for Blender!
 ### Requirements
 
 * Blender 4.0 or later - [blender.org](http://www.blender.org/download/)
-* Latest version of CodeWalker. [Download](https://cdn.discordapp.com/attachments/351357358460370944/1148210493622861915/CodeWalker30\_dev45.zip)
+* Latest version of CodeWalker found in #releases channel. [Download](https://discord.com/invite/codewalker)
 
 ### Reporting Bugs and Making Feature Requests
 
@@ -18,4 +18,4 @@ If you think you've found a bug or you wish to request a feature, please use the
 
 ### **Our Community**
 
-Join the [discord](https://discord.gg/sollumz) and be a part of our growing community!&#x20;
+Join the [discord](https://discord.gg/bZuWBWaQBg) and be a part of our growing community!&#x20;

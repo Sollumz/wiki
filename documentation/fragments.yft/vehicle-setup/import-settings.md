@@ -6,7 +6,7 @@ There are two import settings that determine how Fragments import: `Split By Gro
 
 #### Split By Group
 
-Split By Group will split the Drawable by vertex group. This is typically what you want when editing vehicles, as vehicles are skinned (i.e. rigged with weighted vertex groups), so there is typically only one Drawable Model containing many vertex groups as opposed to multiple Drawable Models each linked to a bone (see [Drawables > Rigging > Skinning](../../drawables-.ydr/rigging.md#skinning) for more info on rigging Drawables).
+Split By Group will split the Drawable by vertex group. This is typically what you want when editing vehicles, as vehicles are skinned (i.e. rigged with weighted vertex groups), so there is typically only one Drawable Model containing many vertex groups as opposed to multiple Drawable Models each linked to a bone (see [Drawables > Rigging > Skinning](../../drawables.ydr/rigging.md#skinning) for more info on rigging Drawables).
 
 Here is what `adder.yft` looks like when split by group.
 

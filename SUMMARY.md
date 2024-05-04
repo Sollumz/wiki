@@ -17,7 +17,7 @@
 ## 📚 Tutorials
 
 * [🌐 Creating Static Meshes](tutorials/creating-static-meshes.md)
-* [💥 Creating Static Collisions](tutorials/creating-static-collisions-todo.md)
+* [💥 Creating Static Collisions](tutorials/creating-static-collisions.md)
 * [🏠 Creating Interiors \[TODO\]](tutorials/creating-interiors-todo.md)
 * [🎸 Creating Props \[TODO\]](tutorials/creating-props-todo.md)
 * [🚙 Creating Vehicles](tutorials/creating-vehicles/README.md)

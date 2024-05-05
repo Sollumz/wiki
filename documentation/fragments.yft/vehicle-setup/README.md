@@ -14,8 +14,8 @@ The example vehicle used in this article is `adder.yft`
 
 ### Contents
 
-{% content-ref url="import-settings.md" %}
-[import-settings.md](import-settings.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="vehicle-windows.md" %}
@@ -30,8 +30,8 @@ The example vehicle used in this article is `adder.yft`
 [paint-colors.md](paint-colors.md)
 {% endcontent-ref %}
 
-{% content-ref url="wheels.md" %}
-[wheels.md](wheels.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="export-settings.md" %}

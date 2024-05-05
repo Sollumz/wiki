@@ -12,7 +12,7 @@ Here is what `adder.yft` looks like when split by group.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>adder.yft split by vertex group</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>adder.yft split by vertex group</p></figcaption></figure>
 
 </div>
 
@@ -20,7 +20,7 @@ Notice how each object represents a separable part of the vehicle. Since it's sp
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>bodyshell</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>bodyshell</p></figcaption></figure>
 
 </div>
 

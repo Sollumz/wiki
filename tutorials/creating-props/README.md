@@ -21,10 +21,10 @@ description: >-
 [setting-up-sollumz-shaders.md](setting-up-sollumz-shaders.md)
 {% endcontent-ref %}
 
-{% content-ref url="creating-static-meshes.md" %}
-[creating-static-meshes.md](creating-static-meshes.md)
+{% content-ref url="converting-to-drawable.md" %}
+[converting-to-drawable.md](converting-to-drawable.md)
 {% endcontent-ref %}
 
-{% content-ref url="creating-the-archetype-.ytyp.md" %}
-[creating-the-archetype-.ytyp.md](creating-the-archetype-.ytyp.md)
+{% content-ref url="creating-the-archetype.md" %}
+[creating-the-archetype.md.md](creating-the-archetype.md)
 {% endcontent-ref %}

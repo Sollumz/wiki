@@ -1,6 +1,6 @@
 # 🌐 Creating Static Meshes
 
-Game meshes are stored in the [Drawable (.ydr)](../documentation/drawables.ydr/) file format. Creating Drawables in Sollumz is very simple. This tutorial will walk you through step-by-step.
+Game meshes are stored in the [Drawable (.ydr)](../documentation/drawables.ydr) file format. Creating Drawables in Sollumz is very simple. This tutorial will walk you through step-by-step.
 
 ### Prerequisite Knowledge
 
@@ -13,7 +13,7 @@ Game meshes are stored in the [Drawable (.ydr)](../documentation/drawables.ydr/)
 * A UV-mapped 3D mesh of your choice
 * Textures for the mesh
 
-You can also follow along with the tutorial by using the assets below:&#x20;
+You can also follow along with the tutorial by using the assets below:
 
 {% file src="../.gitbook/assets/drawable_tutorial_assets.zip" %}
 
@@ -27,7 +27,7 @@ You'll notice that an empty object gets created called "Drawable" and the object
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Drawable hierarchy</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Drawable hierarchy</p></figcaption></figure>
 
 </div>
 
@@ -35,13 +35,13 @@ If you navigate to `Mesh Properties > Sollumz LODs` you'll also notice that the 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Mesh Properties > Sollumz LODs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Mesh Properties > Sollumz LODs</p></figcaption></figure>
 
 </div>
 
 ### Adding Materials
 
-Next, we need to add materials to the Drawable Models. With one of the Drawable Models selected, open the `Sollumz Tools > Drawable > Shader Tools` panel. For this tutorial, I will use the "NORMAL" shader which allows us to specify a base color and a normal map. Search for the "NORMAL" shader and click `Create Shader Material`.&#x20;
+Next, we need to add materials to the Drawable Models. With one of the Drawable Models selected, open the `Sollumz Tools > Drawable > Shader Tools` panel. For this tutorial, I will use the "NORMAL" shader which allows us to specify a base color and a normal map. Search for the "NORMAL" shader and click `Create Shader Material`.
 
 <div align="left">
 
@@ -65,7 +65,7 @@ Lastly, we need to set the textures as embedded. This will embed the textures in
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Sollumz Tools > Drawable > Shader Tools > Set All Materials Embedded</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Sollumz Tools > Drawable > Shader Tools > Set All Materials Embedded</p></figcaption></figure>
 
 </div>
 
@@ -119,7 +119,7 @@ Don't forget to generate \_manifest.ymf for your project!
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -127,7 +127,7 @@ Now, load your YDR, YTYP, YMAP, and \_manifest.ymf into either an RPF or the str
 
 ### Test In-Game
 
-That's it! Load into the game and check out your creation!&#x20;
+That's it! Load into the game and check out your creation!
 
 <div align="left">
 

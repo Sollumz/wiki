@@ -8,7 +8,7 @@ The example vehicle used in this article is `adder.yft`
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>adder.yft Blender hierarchy</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>adder.yft Blender hierarchy</p></figcaption></figure>
 
 </div>
 

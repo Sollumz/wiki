@@ -2,7 +2,7 @@
 
 Paint colors allow you to determine which materials represent the **Primary** color, **Secondary** color, **Wheel** color, **Interior Trim** color, and **Dashboard** color. To select the paint color for a material, navigate to `Material Properties > Sollumz > Fragment`.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Material Properties > Sollumz > Fragment</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Material Properties > Sollumz > Fragment</p></figcaption></figure>
 
 By default it will be "Not Paintable", meaning the shader will not be affected by any paint color.&#x20;
 

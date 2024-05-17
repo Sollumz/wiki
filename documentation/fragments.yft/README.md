@@ -4,8 +4,8 @@ Fragments are objects that contain separable parts and react to physics. These o
 
 It's recommended that you read the documentation page on Drawables and collisions first, as Fragments are made up of these objects.
 
-{% content-ref url="../drawables.ydr/" %}
-[drawables.ydr](../drawables.ydr/)
+{% content-ref url="../drawables.ydr" %}
+[drawables.ydr](../drawables.ydr)
 {% endcontent-ref %}
 
 {% content-ref url="../collisions.ybn.md" %}
@@ -42,7 +42,7 @@ Finally, there are `Lights`, which, just like Drawables, contain any lights that
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Example Fragment object</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Example Fragment object</p></figcaption></figure>
 
 </div>
 

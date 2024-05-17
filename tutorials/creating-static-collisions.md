@@ -21,17 +21,17 @@ The first thing to do is apply location transforms on your object(s). Select all
 
 Next go to Sollumz Tools > Collisions > Create Bounds and select your object(s) and click 'Convert to Composite'.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 Ensure that the Bound Composite and Bound GeometryBVH empties are located at 0, 0, 0.
 
 Next, Center the origins of your object(s), go to Object > Set Origin > Origin to Geometry.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Example Hierarchy</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Example Hierarchy</p></figcaption></figure>
 
 It should now look something like this.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Last step is to rename the 'Bound Composite' empty to your .ybn file name.
 

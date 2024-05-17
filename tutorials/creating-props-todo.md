@@ -1,3 +1,0 @@
-# 🎸 Creating Props \[TODO]
-
-TODO

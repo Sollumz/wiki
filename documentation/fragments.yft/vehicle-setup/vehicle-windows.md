@@ -4,7 +4,7 @@ Vehicle windows are defined in the physics properties of the window collision. S
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p> window_lf.col | Object Properties > Physics</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p> window_lf.col | Object Properties > Physics</p></figcaption></figure>
 
 </div>
 
@@ -12,7 +12,7 @@ Enabling `Is Glass Window` will cause the window properties to appear. The only 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>window_lf | Materials</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>window_lf | Materials</p></figcaption></figure>
 
 </div>
 
@@ -32,6 +32,6 @@ You will notice that all vanilla vehicles have "shattermaps", which is an image 
 
 In Sollumz, shattermaps are represented as planes with a single texture. For example, `adder.yft` has an object called `windscreen_shattermap` which is parented to `windscreen.col`.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>windscreen_shattermap</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>windscreen_shattermap</p></figcaption></figure>
 
 These are always low-res bitmap greyscale textures. Currently, Sollumz has no tools for creating shattermaps, so your best bet is to copy shattermaps from vanilla files and work off of those.

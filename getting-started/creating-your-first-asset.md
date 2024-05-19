@@ -10,6 +10,10 @@ Jump right in and create your first game asset by following one of our tutorials
 [creating-static-collisions.md](../tutorials/creating-static-collisions.md)
 {% endcontent-ref %}
 
+{% content-ref url="../tutorials/creating-props/" %}
+[creating-props](../tutorials/creating-props/)
+{% endcontent-ref %}
+
 It's also highly recommended that you check out the documentation section. There you will find detailed information about each file type and how it is represented in Blender.
 
 {% content-ref url="../documentation/drawables.ydr/" %}

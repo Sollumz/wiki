@@ -59,3 +59,4 @@
 * [🗺️ Map Data (.ymap)](documentation/map-data.ymap-todo.md)
 * [💡 Lighting (.ydr)](documentation/lighting-.ydr/README.md)
   * [Light Flags](documentation/lighting-.ydr/light-flags.md)
+  * [Flashiness Values](documentation/lighting-.ydr/flashiness-values.md)

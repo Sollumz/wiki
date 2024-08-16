@@ -16,17 +16,25 @@ UV Maps:\
 UV Map 0 - Diffuse/Specular\
 UV Map 1 - Dirt
 
+`vehicle_paint4`
+
+Used for add stickers on a car.
+
+Texture samplers: DiffuseSampler, DamageSampler, DiffuseSampler2, DirtSampler, SpecSampler
+
+UV Maps:\
+UV Map 0 - Dirt\
+UV Map 1 - Diffuse/Specular
+
 `vehicle_paint1_enveff`
 
-Texture samplers: Diffuse, Snow Sampler 0, Snow Sampelr 1, Dirt, Specular / DiffuseSampler, SnowSampler0, SnowSampler 1, DirtSampler, SpecSampler
+Texture samplers: Diffuse, Snow Sampler 0, Snow Sampler 1, Dirt, Specular / DiffuseSampler, SnowSampler0, SnowSampler 1, DirtSampler, SpecSampler
 
 UV Maps:\
 UV Map 0 - Diffuse/Specular\
 UV Map 1 - Dirt\
 \
 Vertex Alpha: visibility of snow samplers
-
-
 
 ### Vehicle Light shaders
 
@@ -38,13 +46,9 @@ UV Maps:\
 UV Map 0 - Diffuse/Specular\
 UV Map 1 - Dirt
 
-
-
 ### Vehicle Glass shaders
 
 todo
-
-
 
 ### Vehicle Interior shaders
 
@@ -62,8 +66,6 @@ Texture samplers: Diffuse, Specular / DiffuseSampler, SpecSampler
 UV Maps:\
 UV Map 0 - Diffuse/Specular
 
-
-
 ### Vehicle Mesh shaders
 
 `vehicle_mesh`
@@ -74,8 +76,6 @@ UV Maps:\
 UV Map 0 - Diffuse/Bump/Specular\
 UV Map 1 - Dirt&#x20;
 
-
-
 ### Vehicle Tire shaders
 
 `vehicle_tire`
@@ -84,8 +84,6 @@ Texture samplers: Diffuse, Dirt, Bump, Specular / DiffuseSampler, DirtSampler, B
 
 UV Maps:\
 UV Map 0 - Diffuse/Dirt/Bump/Specular
-
-
 
 ### Vehicle Emissive shaders
 
@@ -103,8 +101,6 @@ Texture samplers: Diffuse, Specular / DiffuseSampler, SpecSampler
 UV Maps:\
 UV Map 0 - Diffuse/Specular
 
-
-
 ### Vehicle License plate shaders
 
 `vehicle_licenseplate`
@@ -114,8 +110,6 @@ Texture samplers: Dirt, Plate background, Place background bump, Font, Font bump
 UV Maps:\
 UV Map 0 - Plate background, Place background bump, Font, Font bump\
 UV Map 1 - Dirt
-
-
 
 ### Vehicle Miscellaneous shaders
 

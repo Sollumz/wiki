@@ -2,7 +2,7 @@
 
 ## Blender 4.2+
 
-Starting with Blender 4.2, Sollumz can now be installed as an extension from our repository[https://repo.sollumz.org/](https://repo.sollumz.org/).
+Starting with Blender 4.2, Sollumz can now be installed as an extension from our repository [https://repo.sollumz.org/](https://repo.sollumz.org/).
 
 First, add `https://repo.sollumz.org/` as a remote repository by navigating to `Preferences` > `Get Extensions` > `Repositories` > `+` > `Add Remote Repository`:
 

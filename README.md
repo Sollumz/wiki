@@ -14,8 +14,8 @@ Thank you for using Sollumz, the only GTA V modding suite for Blender!
 
 ### Reporting Bugs and Making Feature Requests
 
-If you think you've found a bug or you wish to request a feature, please use the [issue tracker on GitHub](https://github.com/Skylumz/Sollumz/issues). Be sure you extensively troubleshoot the issue first to ensure a bug is actually present.
+If you think you've found a bug or you wish to request a feature, please use the [issue tracker on GitHub](https://github.com/Sollumz/Sollumz/issues). Be sure you extensively troubleshoot the issue first to ensure a bug is actually present.
 
 ### **Our Community**
 
-Join the [discord](https://discord.gg/bZuWBWaQBg) and be a part of our growing community!&#x20;
+Join the [discord](https://discord.gg/bZuWBWaQBg) and be a part of our growing community!

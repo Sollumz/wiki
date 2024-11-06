@@ -46,9 +46,3 @@ There is a handful of export options related to ymap in the export window, keep 
 Lastly, convert the .XML file back to the binary .YMAP by dragging the .XML into any RPF archive in CodeWalker RPF Explorer. It's Recommended you create a new RPF archive in your GTA 5 Root Directory.&#x20;
 
 <figure><img src="../.gitbook/assets/CmLabQ1 (1).gif" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Sollumz don't calculate Extents on export actually, you need to calculate via CodeWalker
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/ymap_extents.gif" alt=""><figcaption></figcaption></figure>

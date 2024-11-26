@@ -11,7 +11,7 @@ To create a new vertex group, go to **Data** tab, click `+` in **Vertex Groups**
 3. Select all faces by pressing `A` or using the `CTRL+A` shortcut.
 4. Go to **Vertex Groups**, click Assign button and exit **Edit Mode**.
 
-Now all of the selected faces are properly set to the **bonnet** vertex group**.**
+Now all of the selected faces are properly set to the **bonnet** vertex grou&#x70;**.**
 
 <figure><img src="../../.gitbook/assets/5_assign_vertexgroup.gif" alt=""><figcaption><p>Assignment of faces to vertex group</p></figcaption></figure>
 

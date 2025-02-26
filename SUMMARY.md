@@ -18,7 +18,8 @@
 
 * [🌐 Creating Static Meshes](tutorials/creating-static-meshes.md)
 * [💥 Creating Static Collisions](tutorials/creating-static-collisions.md)
-* [🏠 Creating Interiors \[TODO\]](tutorials/creating-interiors-todo.md)
+* [🏠 Creating Interiors](tutorials/creating-interiors/README)
+  * [🏠 Picking a building](tutorials/creating-interiors/picking-a-building.md)
 * [🎸 Creating Props](tutorials/creating-props/README.md)
   * [⚫ Setting Up Sollumz Shaders](tutorials/creating-props/setting-up-sollumz-shaders.md)
   * [🌐 Converting To Drawable](tutorials/creating-props/converting-to-drawable.md)

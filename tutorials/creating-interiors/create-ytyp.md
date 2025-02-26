@@ -8,14 +8,6 @@ it is not part of this tutorial check out [this video by ook3D](https://www.yout
 if you want to know more.
 
 ## Set model back to world origin !! Sæt den her til før man modelere !!
-We now need to set the model to origin, but we don't just set it back but make a mirror and send the original back to 
-world origin. To make a mirror of the object we selected just press `ALT+D` and then right click to make it go to the 
-original model. Now that we have a copy of the model we can drag the model out of the drawable and then move the drawable 
-to world origin you'll now have the model at the location and at world origin. The mirror will be used to get the 
-location so when we need to create the ymap it will be at the exact same place as in blender you can therefore rename 
-the mirror to "Location" or whatever you want it doesn't really matter what the name is.
-
-NOTE: How i would write the above instead
 We now need to set the model to the world origin, but we don't just set it back but make a mirror and send the original back to 
 world origin. To make a mirror of the object we selected just press `ALT+D` and then right click cancel movement of the mirrored object. Now that we have a copy of the model. We can unparent it with `ALT+P` and click "Clear and Keep Transformation". Then select the original, not the model but the empty and clear transformation with `ALT+R` and `ALT+G`.
 You'll now have the model at the location and at the world origin. The mirror will be used to get the 

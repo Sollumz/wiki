@@ -25,10 +25,13 @@ trying to make an interior inside of.
 To do this we select an area that is the closest to the orientation in this tutorial the roof was the closest, so you
 selected the roof and pressed `shift + NUM7` and to get the 3D cursor over you first go out of edit mode and then
 presses
-`shift + mouse2 (Right mouse button)` you then go up and adds a plane from mesh and in the menu down to the left press
+`shift + mouse2 (Right mouse button)` before adding Mesh Plane, click n to open Right panel and click the View tab remove 
+rotation from the 3d cursor on X and Y Axis you then go up and adds a plane from mesh and in the menu down to the left press
 Align -> 3D cursor, and now you have the mesh to build the floor and walls of, and it is in the right orientation and
 now to get back to the normal view press `NUM5`. **Once again keybindings may vary**
 <figure><img src="../../.gitbook/assets/create_interior_tutorial_building13.gif" alt=""><figcaption><p></p></figcaption></figure>
+
+NOTE: Before adding Mesh Plane. Click n to open Right panel and click the View tab. Remove rotation from the 3d cursor on X and Y Axis
 
 ## Modelling the drawable
 

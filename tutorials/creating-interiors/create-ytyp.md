@@ -15,6 +15,13 @@ to world origin you'll now have the model at the location and at world origin. T
 location so when we need to create the ymap it will be at the exact same place as in blender you can therefore rename 
 the mirror to "Location" or whatever you want it doesn't really matter what the name is.
 
+NOTE: How i would write the above instead
+We now need to set the model to the world origin, but we don't just set it back but make a mirror and send the original back to 
+world origin. To make a mirror of the object we selected just press `ALT+D` and then right click cancel movement of the mirrored object. Now that we have a copy of the model. We can unparent it with `ALT+P` and click "Clear and Keep Transformation". Then select the original, not the model but the empty and clear transformation with `ALT+R` and `ALT+G`.
+You'll now have the model at the location and at the world origin. The mirror will be used to get the 
+location so when we need to create the ymap it will be at the exact same place as in blender you can therefore rename 
+the mirror to "Location" or whatever you want it doesn't really matter what the name is.
+
 ## ytyp
 Start by opening `Sollumz Tools > Archetype Definition > YTYPS` and then press the `+` icon to create a new archetype then
 you can mark every item you have made just the drawable then make sure it is set to base then press Auto-Create From Selected then

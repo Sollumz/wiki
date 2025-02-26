@@ -7,4 +7,20 @@ and press open folder.
 
 When you have opened the folder everything should be in the project manager, and it is now time to add the ymap. Go add 
 the ymap and a new entity and replace `prop_alien_egg_01` with the name of the interior as defined in the ytyp in this 
-tutorial I called it `tutorial_interior_col`
+tutorial I called it `tutorial_interior_col`.
+<figure><img src="../../.gitbook/assets/create_interior_tutorial_building36.gif" alt=""><figcaption><p></p></figcaption></figure>
+
+Now it is time to place it the right place, and it is now that the mirror we created earlier come in handy. Select the 
+model in blender and open `General > Object Location & Rotation Tools` and press the most left button to copy the 
+coordinates to clipboard the go into CodeWalker and paste the coordinates into the project manager.
+<figure><img src="../../.gitbook/assets/create_interior_tutorial_building37.gif" alt=""><figcaption><p></p></figcaption></figure>
+
+Now it's time to calculate the flags and extents by selecting the ymap and press the calculate buttons and here you can 
+also name the ymap what you want to call it in the name field then save the ymap.
+<figure><img src="../../.gitbook/assets/create_interior_tutorial_building38.png" alt=""><figcaption><p></p></figcaption></figure>
+
+We are almost done we are just missing the manifest file which we can auto generate by pressing Tools and the generate 
+manifest and then save.
+<figure><img src="../../.gitbook/assets/create_interior_tutorial_building39.png" alt=""><figcaption><p></p></figcaption></figure>
+
+Now we are ready to load everything into the game.

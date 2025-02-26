@@ -33,13 +33,8 @@ is as a tutorial in the headline in itself.
   * There will be some tips in this tutorial
 * Know how to either stream assets in a FiveM server or load mods into the base-game
 
-## What you will need
 
-* An idea for a small interior
-
->
-
-That is pretty much what you need. This tutorial is a minimal way to make an interior, so I will not go over things
+This tutorial is a minimal way to make an interior, so I will not go over things
 like making doors and moving objects this is purely how to make an interior.
 
 Let's start at the beginning and pick a building you want to make an interior in.

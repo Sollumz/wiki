@@ -58,17 +58,3 @@ If you navigate to `Mesh Properties > Sollumz LODs` you'll also notice that the 
 the "High" LOD level. This panel is where you can assign other meshes as LODs. More info on
 that [here](../documentation/drawables.ydr/level-of-detail-lods-editing.md). For the
 sake of this tutorial, we will only be setting the High LOD level.
-
-NOTE:
-
-1649.42 m
-
-4861.21 m
-
-41.0006 m
-
-0.061349d
-
-0.040145d
-
-8.64204d

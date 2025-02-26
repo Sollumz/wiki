@@ -7,7 +7,7 @@ CodeWalker later) and in the interior we defined in the archetype. There are way
 it is not part of this tutorial check out [this video by ook3D](https://www.youtube.com/watch?v=P8Pxe6Z_iwQ&ab_channel=ook_3D)
 if you want to know more.
 
-## Set model back to world origin
+## Set model back to world origin !! Sæt den her til før man modelere !!
 We now need to set the model to origin, but we don't just set it back but make a mirror and send the original back to 
 world origin. To make a mirror of the object we selected just press `ALT+D` and then right click to make it go to the 
 original model. Now that we have a copy of the model we can drag the model out of the drawable and then move the drawable 

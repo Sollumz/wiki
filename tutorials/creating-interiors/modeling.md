@@ -31,8 +31,6 @@ Align -> 3D cursor, and now you have the mesh to build the floor and walls of, a
 now to get back to the normal view press `NUM5`. **Once again keybindings may vary**
 <figure><img src="../../.gitbook/assets/create_interior_tutorial_building13.gif" alt=""><figcaption><p></p></figcaption></figure>
 
-NOTE: Before adding Mesh Plane. Click n to open Right panel and click the View tab. Remove rotation from the 3d cursor on X and Y Axis
-
 ## Modelling the drawable
 
 Now it is time to actually model your interior the plane we made before is the starting point and build out from that so

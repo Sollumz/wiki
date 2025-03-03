@@ -11,8 +11,16 @@ wall, and floor. In this sample I use the normal, but you can play around with t
 attributes that can be useful
 <figure><img src="../../.gitbook/assets/create_interior_tutorial_building18.gif" alt=""><figcaption><p></p></figcaption></figure>
 
-With the newly added material selected, head to the shading tab and assign your textures.
-<figure><img src="../../.gitbook/assets/create_interior_tutorial_building19.gif" alt=""><figcaption><p></p></figcaption></figure>
+With the newly added material selected, head to the material section then open `Sollumz > Texture Parameters` then press 
+the folder icon and select the texture you want.
+
+{% hint style="info" %}
+When selecting textures you'll need to make sure their resolution is power of 2 E.g. `16x16` `32x16` `512x512` `512x16`.
+
+It also needs to be .dds and not jpg, png, or any other file format.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/create_interior_tutorial_building19.png" alt=""><figcaption><p></p></figcaption></figure>
 
 When you have set a texture open the UV Editing tab where you can edit the placement of the texture if the textures is
 placed wild you have to select the textures right click and press the Unwrap button
@@ -28,7 +36,7 @@ from the menu and press the `Set all Textures Embedded` button
 ## Vertex coloring
 
 To set the vertex paint open `Data > Color Attributes` and add a new color attribute called `Color 1` and it need to be 
-set to Face Corner and Byte Color for this tutorial i will just use green at .2 and everything else at 0 the vertex 
+set to Face Corner and Byte Color for this tutorial I will just use green at .2 and everything else at 0 the vertex 
 coloring is something you can play around with.
 
 Red control ambient occlusion of the model during night, most (except for night lights) will have it topped to 255 so it gets very dark at night

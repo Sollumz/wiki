@@ -18,7 +18,7 @@
 
 * [🌐 Creating Static Meshes](tutorials/creating-static-meshes.md)
 * [💥 Creating Static Collisions](tutorials/creating-static-collisions.md)
-* [🏠 Creating Interiors](tutorials/creating-interiors/README)
+* [🏠 Creating Interiors](tutorials/creating-interiors/README.md)
   * [🏠 Picking a building](tutorials/creating-interiors/picking-a-building.md)
   * [Importing from CodeWalker](tutorials/creating-interiors/importing-from-codewalker.md)
   * [Planing](tutorials/creating-interiors/planing.md)

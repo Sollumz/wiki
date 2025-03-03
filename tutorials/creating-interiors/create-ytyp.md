@@ -2,17 +2,9 @@
 So now we have a somewhat finished model now it is time to make the archetype (.ytyp). The archetype is a file that contains
 information about the model, collision, and texture it is also in the file we determine how many rooms there are and
 where the portals between rooms are and entities in the room (This **_can_** be easier to do in CodeWalker later on), it is
-also time to create the map data (.ymap) this is where we place exterior entities (Again this **_can_** be easier to do in
-CodeWalker later) and in the interior we defined in the archetype. There are ways to do it directly inside of Blender, but
+also time to create the map data (.ymap) this is where we place exterior entities and in the interior we defined in the archetype. There are ways to do it directly inside of Blender, but
 it is not part of this tutorial check out [this video by ook3D](https://www.youtube.com/watch?v=P8Pxe6Z_iwQ&ab_channel=ook_3D)
 if you want to know more.
-
-## Set model back to world origin !! Sæt den her til før man modelere !!
-We now need to set the model to the world origin, but we don't just set it back but make a mirror and send the original back to 
-world origin. To make a mirror of the object we selected just press `ALT+D` and then right click cancel movement of the mirrored object. Now that we have a copy of the model. We can unparent it with `ALT+P` and click "Clear and Keep Transformation". Then select the original, not the model but the empty and clear transformation with `ALT+R` and `ALT+G`.
-You'll now have the model at the location and at the world origin. The mirror will be used to get the 
-location so when we need to create the ymap it will be at the exact same place as in blender you can therefore rename 
-the mirror to "Location" or whatever you want it doesn't really matter what the name is.
 
 ## ytyp
 Start by opening `Sollumz Tools > Archetype Definition > YTYPS` and then press the `+` icon to create a new archetype then
@@ -33,7 +25,8 @@ arrow in the portal faces the same way as the instructed and if not use the Flip
 <figure><img src="../../.gitbook/assets/create_interior_tutorial_building30.png" alt=""><figcaption><p></p></figcaption></figure>
 
 {% hint style="info" %}
-It is very important to go out from inside when limbo is one of the parts
+It is very important to go out from inside when limbo is one of the parts.
+
 Room -> Limbo
 {% endhint %}
 

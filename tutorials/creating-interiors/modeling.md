@@ -31,6 +31,13 @@ Align -> 3D cursor, and now you have the mesh to build the floor and walls of, a
 now to get back to the normal view press `NUM5`. **Once again keybindings may vary**
 <figure><img src="../../.gitbook/assets/create_interior_tutorial_building13.gif" alt=""><figcaption><p></p></figcaption></figure>
 
+## Set model back to world origin
+We now need to set the model to the world origin, but we don't just set it back but make a mirror and send the original back to
+world origin. To make a mirror of the object we selected just press `ALT+D` and then right click cancel movement of the mirrored object. Now that we have a copy of the model. We can unparent it with `ALT+P` and click "Clear and Keep Transformation". Then select the original, not the model but the empty and clear transformation with `ALT+R` and `ALT+G`.
+You'll now have the model at the location and at the world origin. The mirror will be used to get the
+location so when we need to create the ymap it will be at the exact same place as in blender you can therefore rename
+the mirror to "Location" or whatever you want it doesn't really matter what the name is.
+
 ## Modelling the drawable
 
 Now it is time to actually model your interior the plane we made before is the starting point and build out from that so

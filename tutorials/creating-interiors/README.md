@@ -1,6 +1,6 @@
 # 🏠 Creating Interiors
 
-When making an interior there are about 7 steps to take.
+When making an interior there are about 9 steps to take.
 
 * Picking a building
 * Importing from CodeWalker
@@ -19,7 +19,7 @@ When making an interior there are about 7 steps to take.
 * Collision
 * Creating ytyp
     * Rooms/Portals
-* Exporting to CodeWalker
+* Exporting from Blender
 * Creating ymap
 
 {% hint style="warning" %}

@@ -64,5 +64,5 @@ Drawable. Select all the objects and click `Convert to Drawable` in
 
 If you navigate to `Mesh Properties > Sollumz LODs` you'll also notice that the active mesh is automatically assigned to
 the "High" LOD level. This panel is where you can assign other meshes as LODs. More info on
-that [here](../documentation/drawables.ydr/level-of-detail-lods-editing.md). For the
+that [here](../../documentation/drawables.ydr/level-of-detail-lods-editing.md). For the
 sake of this tutorial, we will only be setting the High LOD level.

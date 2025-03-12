@@ -1,8 +1,8 @@
-# 📝📐 Planing
+# 📝📐 Planning
 
 This part is optional but a good idea for bigger interiors
 
-When planing you can do a lot you can use Photoshop, Paint, or anything to draw what you want this do not have to be to
+When planning you can do a lot you can use Photoshop, Paint, or anything to draw what you want this do not have to be to
 scale. This is also a good time to make mood boards find out what you want the building be like and the art style
 modern,
 old, western, etc.

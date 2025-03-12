@@ -4,7 +4,7 @@ When making an interior there are about 9 steps to take.
 
 * Picking a building
 * Importing from CodeWalker
-* Planing
+* Planning
 * Modeling
     * Interior
         * Decals

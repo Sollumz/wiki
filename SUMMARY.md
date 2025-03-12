@@ -21,7 +21,7 @@
 * [🏠 Creating Interiors](tutorials/creating-interiors/README.md)
   * [🏠 Picking a building](tutorials/creating-interiors/picking-a-building.md)
   * [Importing from CodeWalker](tutorials/creating-interiors/importing-from-codewalker.md)
-  * [Planing](tutorials/creating-interiors/planing.md)
+  * [Planning](tutorials/creating-interiors/planning.md)
   * [🏠📐 Modelling](tutorials/creating-interiors/modeling.md)
   * [Texturing](tutorials/creating-interiors/texturing.md)
   * [Collisions](tutorials/creating-interiors/collisions.md)

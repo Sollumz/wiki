@@ -1,3 +1,0 @@
-# 🏠 Creating Interiors \[TODO]
-
-TODO

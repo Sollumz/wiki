@@ -2,7 +2,7 @@
 description: Not every file type found in GTA is supported by Sollumz.
 ---
 
-# ⚠ Files not supported by Sollumz
+# ⚠️ Files not supported by Sollumz
 
 ## Ped YFTs (.yft) with articulated skeletons
 
@@ -54,9 +54,5 @@ a_c_chickenhawk.yft
 a_c_rhesus.yft 
 a_c_seagull.yft 
 a_c_chop_02.yft 
-a_c_chickenhawk.yft 
+a_c_chickenhawk.yft
 ```
-
-## Cloth Physics (.yld) files
-
-Cloth physics files, including .ydds that require .yld, are not yet supported by Sollumz.

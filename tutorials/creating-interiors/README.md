@@ -6,25 +6,24 @@ When making an interior there are about 9 steps to take.
 * Importing from CodeWalker
 * Planning
 * Modeling
-    * Interior
-        * Decals
-        * Other props
-    * Exterior
-        * Decals
-        * Other props
-    * Modifying terrain
-    * Create the ybn
+  * Interior
+    * Decals
+    * Other props
+  * Exterior
+    * Decals
+    * Other props
+  * Modifying terrain
+  * Create the ybn
 * Texturing
-    * Vertex coloring
+  * Vertex coloring
 * Collision
 * Creating ytyp
-    * Rooms/Portals
+  * Rooms/Portals
 * Exporting from Blender
 * Creating ymap
 
 {% hint style="warning" %}
-This is not the only order to make an interior every step, can be made when you want to or are ready to. Every step
-is as a tutorial in the headline in itself.
+This is not the only order to make an interior every step, can be made when you want to or are ready to. Every step is as a tutorial in the headline in itself.
 {% endhint %}
 
 ## Prerequisite Knowledge
@@ -33,8 +32,6 @@ is as a tutorial in the headline in itself.
   * There will be some tips in this tutorial
 * Know how to either stream assets in a FiveM server or load mods into the base-game
 
-
-This tutorial is a minimal way to make an interior, so I will not go over things
-like making doors and moving objects this is purely how to make an interior.
+This tutorial is a minimal way to make an interior, so I will not go over things like making doors and moving objects this is purely how to make an interior.
 
 Let's start at the beginning and pick a building you want to make an interior in.

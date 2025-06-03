@@ -41,6 +41,7 @@
 * [🔫 Creating Weapons \[TODO\]](tutorials/creating-weapons-todo.md)
 * [🎬 Basic Animation Editing \[TODO\]](tutorials/basic-animation-editing-todo.md)
 * [👕 Basic Clothes Editing](tutorials/basic-clothes-editing.md)
+* [🏭 Asset conversion for GTAV Enhanced](tutorials/asset-conversion-for-gtav-enhanced.md)
 
 ## 📄 Documentation
 

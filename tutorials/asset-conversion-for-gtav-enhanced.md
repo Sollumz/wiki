@@ -95,6 +95,13 @@ To fix this issue:
 
 
 
+5. Close and open adder.ytd file.
+6. Go to Details tab, find G9\_Flags column and change the value to 2490920, if CW didn't set it by default.
+
+<figure><img src="../.gitbook/assets/g9_flags.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 **Q**: Game crashed even when I didn't enter the car.\
 **A**: Check the material/geometries amount of the converted vehicle. GTAV Enhanced **has a limit of 128 materials/geometries** per file and exceeding that value leads to crashes.\
 

@@ -93,3 +93,12 @@ description: Frequently Asked Questions
 * Check the UV Maps and Color Attribute names, they have to follow the Sollumz naming convention. Sollumz is warning a user when names don't match.
 
 <figure><img src="../.gitbook/assets/uv.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## I try to import a XML but nothing happens!
+
+Make sure the "Import To Asset Library" checkbox is unchecked and try to import again.\
+
+
+<figure><img src="../.gitbook/assets/Captura de tela 2025-07-18 201517.png" alt=""><figcaption></figcaption></figure>

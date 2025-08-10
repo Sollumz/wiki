@@ -21,7 +21,7 @@ The first thing to do is apply location transforms on your object(s). Select all
 
 Next go to Sollumz Tools > Collisions > Create Bounds and select your object(s) and click 'Convert to Composite'.
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 Ensure that the Bound Composite and Bound GeometryBVH empties are located at 0, 0, 0.
 

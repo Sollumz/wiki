@@ -302,3 +302,15 @@ Make sure both are set to "face corner" and "byte color":
 This is an intermediate problem that has many possible issues. For a more in-depth explanation of these problems (and a walk-through of the solutions) please watch this video:
 
 {% embed url="https://www.youtube.com/watch?v=sJO_Fd__2nw" %}
+
+### My emissive material is not glowing in game.
+
+For emissives to work correctly, you’ll need to add **pink** to the **Color 1** vertex color.
+
+{% hint style="info" %}
+**Tip:** In Vertex Paint mode, you can press **Ctrl+X** to quickly paint the mesh.
+{% endhint %}
+
+\
+![](../.gitbook/assets/image.png)
+

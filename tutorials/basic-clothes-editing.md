@@ -289,3 +289,16 @@ Make sure both are set to "face corner" and "byte color":
 ### My YDD exported but doesn't appear ingame
 
 **Answer**: Most of the time this is due to clothing not being rigged. Either you did not import with external skel (see [#importing-the-files](basic-clothes-editing.md#importing-the-files "mention")) or your import was okay but you didn't actually rig your mesh (empty vertex groups).&#x20;
+
+### My \_r freemode clothing piece is not changing skin colors ingame
+
+**Answer:** Several things could be wrong. Either you:
+
+* Did not name your embedded textures correctly (should follow R\* format so `component_normal/spec_number` for example: `jbib_normal_000` and `jbib_spec_000`)
+* The alpha RGB channel on your specular texture (viewable in programs like photoshop) is not setup correctly
+* You moved the UVs for the skin (you should not do this)
+* Your diffuse is not square or not Power-of-2 (256x256 or 512x512 etc). \_r clothing should be square to follow original MP skin dimensions.
+
+This is an intermediate problem that has many possible issues. For a more in-depth explanation of these problems (and a walk-through of the solutions) please watch this video:
+
+{% embed url="https://www.youtube.com/watch?v=sJO_Fd__2nw" %}

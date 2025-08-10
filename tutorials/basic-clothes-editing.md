@@ -282,6 +282,8 @@ Make sure both are set to "face corner" and "byte color":
 
 ### There's a weird checkered pattern on top of my clothing texture
 
+<figure><img src="../.gitbook/assets/checkered.png" alt=""><figcaption></figcaption></figure>
+
 **Answer**: For MP Freemode YDDs using PED material (or streamed ped YDDs) it is required to embed both a normal and specular texture(s). If you see your texture but with a checkered overlay, most likely you are missing one or both.
 
 ### My YDD exported but doesn't appear ingame

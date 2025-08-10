@@ -161,7 +161,7 @@ The easiest way to switch between LODs quickly is to press **SHIFT + V** (make s
 
 The three options on the right-side of the wheel are the ones you'll be using for clothing YDDs. Switch to Medium, repeat the same steps above. Then switch to Low, and do it once more.&#x20;
 
-## E[^1]diting
+## Editing
 
 We're ready to edit! Switch back to High LOD with SHIFT + V and tab into edit mode. You can make any changes you want here. I'll delete the sleeves for the purpose of this tutorial.
 
@@ -246,4 +246,44 @@ You can now head back over to Codewalker RPF and import the XML to turn it back 
 
 Our model is finished! Now you can replace the existing one or create an addon with the same textures and test in-game. In-game you might see it clips with the underarms as you move around. That's due to something called "weight painting". More about that to come in future tutorials!
 
-[^1]: 
+## FAQ
+
+### What Vertex Colors should I use?
+
+99% of the time you want Color 1 to be #FF8000 and Color 2 to be #000 with 0 alpha.&#x20;
+
+<figure><img src="../.gitbook/assets/blender_bVu8ICnFfO.png" alt=""><figcaption></figcaption></figure>
+
+Color 1 setup:
+
+<figure><img src="../.gitbook/assets/blender_pVFgO1bNW7.png" alt=""><figcaption></figcaption></figure>
+
+Color 2 setup:
+
+<figure><img src="../.gitbook/assets/blender_f3RnfNAXMQ (2).png" alt=""><figcaption></figcaption></figure>
+
+Make sure both are set to "face corner" and "byte color":
+
+<figure><img src="../.gitbook/assets/blender_cgK6aBvLXm.png" alt=""><figcaption></figcaption></figure>
+
+### My clothes are shaking ingame
+
+**Answer**: This has to do with Vertex Colors. Color 1 determines the lighting a ped object should take on, and Color 2 is to deal with sweat or wind effects. Your clothes are shaking due to wind. To turn off wind effects, set the alpha on Color 2 to 0.&#x20;
+
+<figure><img src="../.gitbook/assets/blender_jGdr3dtNS7.gif" alt=""><figcaption></figcaption></figure>
+
+### The shading on my clothes are weird, it's completely black on one side/in the shade.
+
+**Answer**: This has to do with Vertex Colors. Color 1 determines the lighting a ped object should take on. Most MP clothing uses hex color #FF8000 for Color 1 (#000 with no alpha for Color 2, see above)
+
+### My clothes look shiny/oily in the sun
+
+**Answer**: This has to do with Vertex Colors. Color 1 determines the lighting a ped object should take on, and Color 2 is to deal with sweat or wind effects. Your clothes are shiny in the sun due to sweat. To turn off sweat effects, set Color 2 to hex #000 (with 0 alpha to also disable wind effects as stated above).&#x20;
+
+### There's a weird checkered pattern on top of my clothing texture
+
+**Answer**: For MP Freemode YDDs using PED material (or streamed ped YDDs) it is required to embed both a normal and specular texture(s). If you see your texture but with a checkered overlay, most likely you are missing one or both.
+
+### My YDD exported but doesn't appear ingame
+
+**Answer**: Most of the time this is due to clothing not being rigged. Either you did not import with external skel (see [#importing-the-files](basic-clothes-editing.md#importing-the-files "mention")) or your import was okay but you didn't actually rig your mesh (empty vertex groups).&#x20;

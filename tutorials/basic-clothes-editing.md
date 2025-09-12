@@ -268,9 +268,7 @@ Make sure both are set to "face corner" and "byte color":
 
 ### My clothes are shaking ingame
 
-**Answer**: This has to do with Vertex Colors. Color 1 determines the lighting a ped object should take on, and Color 2 is to deal with sweat or wind effects. Your clothes are shaking due to wind. To turn off wind effects, set the alpha on Color 2 to 0.&#x20;
-
-<figure><img src="../.gitbook/assets/blender_jGdr3dtNS7.gif" alt=""><figcaption></figcaption></figure>
+**Answer**: This has to do with Vertex Colors. Color 1 determines the lighting a ped object should take on, and Color 2 is to deal with sweat or wind effects. Your clothes are shaking due to wind. To turn off wind effects, make sure Color 2 is black #000 (see above).&#x20;
 
 ### The shading on my clothes are weird, it's completely black on one side/in the shade.
 
@@ -278,7 +276,11 @@ Make sure both are set to "face corner" and "byte color":
 
 ### My clothes look shiny/oily in the sun
 
-**Answer**: This has to do with Vertex Colors. Color 1 determines the lighting a ped object should take on, and Color 2 is to deal with sweat or wind effects. Your clothes are shiny in the sun due to sweat. To turn off sweat effects, set Color 2 to hex #000 (with 0 alpha to also disable wind effects as stated above).&#x20;
+**Answer**: This has to do with Vertex Colors. Color 1 determines the lighting a ped object should take on, and Color 2 is to deal with sweat or wind effects. Your clothes are shiny in the sun due to sweat. To turn off sweat effects, make sure Color 2 has no alpha:&#x20;
+
+<figure><img src="../.gitbook/assets/blender_jGdr3dtNS7.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ### There's a weird checkered pattern on top of my clothing texture
 
@@ -305,12 +307,12 @@ This is an intermediate problem that has many possible issues. For a more in-dep
 
 ### My emissive material is not glowing in game.
 
-For emissives to work correctly, you’ll need to add **pink** to the **Color 1** vertex color.
+For ped emissive to work correctly on clothing, set Color 1 to #FFBAFF. Keep Color 2 #000/no alpha to disable sweat/wind.
+
+\
+![](../.gitbook/assets/blender_up5EFlk2Lh.png)
 
 {% hint style="info" %}
 **Tip:** In Vertex Paint mode, you can press **Ctrl+X** to quickly paint the mesh.
 {% endhint %}
-
-\
-![](../.gitbook/assets/image.png)
 

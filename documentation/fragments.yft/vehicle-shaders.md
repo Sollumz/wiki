@@ -6,6 +6,12 @@ description: >-
 
 # Vehicle Shaders
 
+### Vertex Colors for vehicles
+
+* Red : Ambient Occlusion
+* Green : Body Deformation
+* Blue : Burn level
+
 ### Vehicle Paint shaders
 
 `vehicle_paint1`
@@ -895,3 +901,4 @@ Shader for UV animation, **hardcoded usage**, in modded vehicles works only on t
 <figure><img src="../../.gitbook/assets/track.png" alt=""><figcaption><p>Example of vehicle_track from manchez2.yft</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+

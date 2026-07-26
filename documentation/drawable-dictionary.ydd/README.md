@@ -1,11 +1,11 @@
-# 🗂 Drawable Dictionary (.ydd)
+# 🗂️ Drawable Dictionary (.ydd)
 
 The Drawable Dictionary is a container that holds a collection of drawables. Its primary use is for storing LOD models, ped components, ped props, mesh minimaps and instanced props.
 
 It is recommended that you read the Drawable documentation page before creating a Drawable Dictionary, as it consists of drawables.
 
-{% content-ref url="../drawables.ydr/" %}
-[drawables.ydr](../drawables.ydr/)
+{% content-ref url="https://github.com/Sollumz/wiki/blob/main/documentation/drawables.ydr" %}
+[https://github.com/Sollumz/wiki/blob/main/documentation/drawables.ydr](https://github.com/Sollumz/wiki/blob/main/documentation/drawables.ydr)
 {% endcontent-ref %}
 
 ### File Layout
@@ -29,14 +29,7 @@ For the hierarchy, several drawables exist as regular game-ready assets, but all
 
 ### Blender Hierarchy
 
-<div align="left" data-full-width="false">
- <figure>
-  <img src="../../.gitbook/assets/drawable_dictionary_hierarchy_in_blender.jpg" alt="">
-  <figcaption>
-   <p>Example Drawable Dictionay object</p>
-  </figcaption>
- </figure>
-</div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/drawable_dictionary_hierarchy_in_blender.jpg" alt=""><figcaption><p>Example Drawable Dictionay object</p></figcaption></figure></div>
 
 In Blender, Drawable Dictionaries comprises a parent object and one or more drawable objects in its hierarchy.
 
@@ -56,14 +49,7 @@ When creating the archetype definition for a drawable in a drawable dictionary, 
 
 For instance, if we have the drawable dictionary `my_ydd` and the drawable `my_ydr` in the scene. Then you should fill in "Drawable Dictionary" in the archetype as shown in the picture below:
 
-<div align="left" data-full-width="false">
- <figure>
-  <img src="../../.gitbook/assets/drawable_dictionary_archetype_in_blender.jpg" alt="">
-  <figcaption>
-   <p>Fill the "Drawable Dictionary" with the name of your drawable dictionary</p>
-  </figcaption>
- </figure>
-</div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/drawable_dictionary_archetype_in_blender.jpg" alt=""><figcaption><p>Fill the "Drawable Dictionary" with the name of your drawable dictionary</p></figcaption></figure></div>
 
 {% hint style="info" %}
 If you use the "Auto-Create From Selected" function, the "Drawable Dictionary" will be filled in automatically.

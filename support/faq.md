@@ -75,14 +75,11 @@ description: Frequently Asked Questions
 
 ### Why the vertices amount is doubled or tripled after exporting my model?
 
-*   Vertices in Blender and in game meshes have different meaning. For Blender, it is basically just a position. For the game, it is position + attributes (normals, colors, UVs, etc). Closer to what Blender calls "Face Corners".\
+*   Vertices in Blender and in game meshes have different meaning. For Blender, it is basically just a position. For the game, it is position + attributes (normals, colors, UVs, etc). Closer to what Blender calls "Face Corners".<br>
 
+    Don't think Blender shows the number of face corners anywhere without python, but after triangulization, it is basically number of faces\*3.<br>
 
-    Don't think Blender shows the number of face corners anywhere without python, but after triangulization, it is basically number of faces\*3.\
-
-
-    On export, Sollumz removes duplicate face corners when it can, when position and all its attributes are the same. So the final vertex count in the game mesh is somewhere between number of vertices and number of face corners.\
-
+    On export, Sollumz removes duplicate face corners when it can, when position and all its attributes are the same. So the final vertex count in the game mesh is somewhere between number of vertices and number of face corners.<br>
 
     Anyways, number of faces is more representative of the model quality/performance, so just use that, not vertices.
 
@@ -94,11 +91,14 @@ description: Frequently Asked Questions
 
 <figure><img src="../.gitbook/assets/uv.png" alt=""><figcaption></figcaption></figure>
 
+UV Maps and Color Attribute should be changed to the following
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-07-26 100932.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## I try to import a XML but nothing happens!
 
-Make sure the "Import To Asset Library" checkbox is unchecked and try to import again.\
-
+Make sure the "Import To Asset Library" checkbox is unchecked and try to import again.<br>
 
 <figure><img src="../.gitbook/assets/Captura de tela 2025-07-18 201517.png" alt=""><figcaption></figcaption></figure>

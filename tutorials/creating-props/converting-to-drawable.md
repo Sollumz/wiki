@@ -1,6 +1,6 @@
 # 🌐 Converting To Drawable
 
-Game meshes are stored in the [Drawable (.ydr)](../../documentation/drawables.ydr) file format. Creating Drawables in Sollumz is very simple. This tutorial will walk you through step-by-step.
+Game meshes are stored in the [Drawable (.ydr)](https://github.com/Sollumz/wiki/blob/main/documentation/drawables.ydr) file format. Creating Drawables in Sollumz is very simple. This tutorial will walk you through step-by-step.
 
 ### Converting to a Drawable
 
@@ -14,8 +14,4 @@ You will notice in your Scene Collection top right, that your object has changed
 
 If you navigate to `Mesh Properties > Sollumz LODs` with the drawable model selected, you'll also notice that the active mesh is automatically assigned to the "High" LOD level. This panel is where you can assign other meshes as LODs. More info on that [here](../../documentation/drawables.ydr/level-of-detail-lods-editing.md). For the sake of this tutorial, we will only be setting the High LOD level.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Mesh Properties > Sollumz LODs</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Mesh Properties > Sollumz LODs</p></figcaption></figure></div>

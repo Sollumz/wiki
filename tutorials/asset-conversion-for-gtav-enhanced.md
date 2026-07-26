@@ -103,8 +103,7 @@ To fix this issue:
 ***
 
 **Q**: Game crashed even when I didn't enter the car.\
-**A**: Check the material/geometries amount of the converted vehicle. GTAV Enhanced **has a limit of 128 materials/geometries** per file and exceeding that value leads to crashes.\
-
+**A**: Check the material/geometries amount of the converted vehicle. GTAV Enhanced **has a limit of 128 materials/geometries** per file and exceeding that value leads to crashes.<br>
 
 <figure><img src="../.gitbook/assets/many-geometries.png" alt=""><figcaption><p>vacca_hi vehicle with more than 128 materials</p></figcaption></figure>
 

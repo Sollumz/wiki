@@ -1,6 +1,6 @@
 # 🌐 Drawables (.ydr)
 
-Drawables are objects that hold mesh data, skeleton data, and shader data. It can be thought of as the game engine's mesh format. YDR files contain one Drawable and are typically used for static mapping but are also used for dynamic props in some cases. In cases where a prop consists of multiple breakable parts, [Fragment (.yft) ](../fragments.yft/)objects are used instead.
+Drawables are objects that hold mesh data, skeleton data, and shader data. It can be thought of as the game engine's mesh format. YDR files contain one Drawable and are typically used for static mapping but are also used for dynamic props in some cases. In cases where a prop consists of multiple breakable parts, [Fragment (.yft) ](https://github.com/Sollumz/wiki/blob/main/documentation/fragments.yft)objects are used instead.
 
 ### File Layout
 
@@ -25,10 +25,6 @@ Drawables consist of multiple "Drawable Models" which hold the actual mesh data.
 
 ### Blender Hierarchy
 
-<div align="left" data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="453"><figcaption><p>Example Drawable object</p></figcaption></figure>
-
-</div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/image (18).png" alt="" width="453"><figcaption><p>Example Drawable object</p></figcaption></figure></div>
 
 In Blender, the hierarchy for Drawables consists of one parent Drawable object (either an empty or an armature depending on whether or not the Drawable has skeleton data) and Drawable Models (mesh objects).

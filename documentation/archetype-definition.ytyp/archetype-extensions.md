@@ -10,8 +10,7 @@ description: >-
 
 ### CExtensionDefExpression
 
-Used for:\
-
+Used for:<br>
 
 <figure><img src="../../.gitbook/assets/image (58).png" alt="" width="381"><figcaption></figcaption></figure>
 
@@ -26,8 +25,7 @@ Used for:\
 
 ### CExtensionProcObject
 
-Used For: Attaching / Spreading procedural objects\
-
+Used For: Attaching / Spreading procedural objects<br>
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt="" width="383"><figcaption></figcaption></figure>
 
@@ -35,8 +33,7 @@ Used For: Attaching / Spreading procedural objects\
 
 ### CExtensionDefWindDisturbance
 
-Used for:\
-
+Used for:<br>
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt="" width="381"><figcaption></figcaption></figure>
 
@@ -52,8 +49,7 @@ Used for:\
 
 ### CExtensionDefSpawnPointOverride
 
-Used For: Spawning / overriding ped spawns\
-
+Used For: Spawning / overriding ped spawns<br>
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt="" width="383"><figcaption></figcaption></figure>
 
@@ -73,8 +69,7 @@ Used For: Spawning / overriding ped spawns\
 
 ### CExtensionDefSpawnPoint
 
-Used For: Attaching peds / ped scenarios to objects\
-
+Used For: Attaching peds / ped scenarios to objects<br>
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt="" width="383"><figcaption></figcaption></figure>
 

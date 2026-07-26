@@ -6,16 +6,12 @@ The example vehicle used in this article is `adder.yft`
 
 ### Fragment Hierarchy
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>adder.yft Blender hierarchy</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>adder.yft Blender hierarchy</p></figcaption></figure></div>
 
 ### Contents
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/9j4qRj41q4nXUJ5mU2WI" %}
+[Broken link](/broken/pages/9j4qRj41q4nXUJ5mU2WI)
 {% endcontent-ref %}
 
 {% content-ref url="vehicle-windows.md" %}
@@ -30,8 +26,8 @@ The example vehicle used in this article is `adder.yft`
 [paint-colors.md](paint-colors.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/8j7N827Pmlg8lqryVtnf" %}
+[Broken link](/broken/pages/8j7N827Pmlg8lqryVtnf)
 {% endcontent-ref %}
 
 {% content-ref url="export-settings.md" %}

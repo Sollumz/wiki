@@ -26,4 +26,4 @@ It is here where you can add or remove Collision materials and apply flags to sa
 ![](<../.gitbook/assets/image (67).png>)\
 \
 Also, the "Procedural ID" setting is used mainly for ma@ collision ybns to spawn procedural objects like trash on the ground.\
-The "Room ID" Setting is used for setting up different rooms for MLOs.\
+The "Room ID" Setting is used for setting up different rooms for MLOs.<br>

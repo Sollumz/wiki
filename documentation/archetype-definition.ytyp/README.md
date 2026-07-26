@@ -2,11 +2,9 @@
 
 **Archetype definitions (.ytyp) is basically the configuration file to define properties of objects.**\
 \
-inside the .ytyp you will find multiple Archetypes, each archetype is for one object, there is 3 types of archetypes, Base, Time and MLO. Base is for .ydr, .ydd, .yft objects, Time archetypes are for time based objects such as window emissives that only show up at night. MLO archetypes are for MLOs (.ybn) objects.\
+inside the .ytyp you will find multiple Archetypes, each archetype is for one object, there is 3 types of archetypes, Base, Time and MLO. Base is for .ydr, .ydd, .yft objects, Time archetypes are for time based objects such as window emissives that only show up at night. MLO archetypes are for MLOs (.ybn) objects.<br>
 
-
-*   \
-
+*   <br>
 
     <figure><img src="../../.gitbook/assets/image (55).png" alt="" width="387"><figcaption></figcaption></figure>
 

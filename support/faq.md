@@ -102,3 +102,19 @@ UV Maps and Color Attribute should be changed to the following
 Make sure the "Import To Asset Library" checkbox is unchecked and try to import again.<br>
 
 <figure><img src="../.gitbook/assets/Captura de tela 2025-07-18 201517.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### I have embedded or linked a ytd to my model but it doesnt show.
+
+Sollumz required textures to be added to shaders. (see Creating Static Meshes)
+
+The texture must be a .dds file. (png, bmp etc will not work.)&#x20;
+
+The dds must be 'power of 2' ie 512x512, 128x64 etc. You can use any graphics software to edit the size as long as it saves in dds format with mipmaps and as a dtx1 for models.
+
+Maximum recommended size for textures is 2048 to ensure your model is optimised. Download textures from the game for examples and use on your models.
+
+For Clothing textures, see&#x20;
+
+{% embed url="https://docs.sollumz.org/tutorials/basic-clothes-editing" %}

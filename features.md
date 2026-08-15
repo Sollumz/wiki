@@ -9,10 +9,6 @@
 🟥 Not implemented
 
 {% hint style="info" %}
-Sollumz cannot import binary formats directly. You must convert them to XML first using CodeWalker!
-{% endhint %}
-
-{% hint style="info" %}
 Since this plugin was designed around CodeWalker's XML file formats, OpenIV is not explicitly supported. You may experience issues going from Sollumz > CodeWalker > OpenIV. It's highly recommended that you just use CodeWalker.
 {% endhint %}
 
@@ -101,7 +97,7 @@ a_c_chickenhawk.yft
 
 #### **Map Data (.ymap)**
 
-<table><thead><tr><th width="414">Feature</th><th align="center">Support</th></tr></thead><tbody><tr><td>Entities</td><td align="center">🟩</td></tr><tr><td>Box Occluders</td><td align="center">🟩</td></tr><tr><td>Car Generators</td><td align="center">🟩</td></tr><tr><td>Model Occluders</td><td align="center">🟩</td></tr><tr><td>Physics Dictionaries</td><td align="center">🟥</td></tr><tr><td>Time Cycle</td><td align="center">🟥</td></tr><tr><td>Lod Lights</td><td align="center">🟥</td></tr></tbody></table>
+<table><thead><tr><th width="414">Feature</th><th align="center">Support</th></tr></thead><tbody><tr><td>Entities</td><td align="center">🟩</td></tr><tr><td>Entity LOD Hierarchies</td><td align="center">🟩</td></tr><tr><td>Car Generators</td><td align="center">🟩</td></tr><tr><td>Occluders</td><td align="center">🟩</td></tr><tr><td>Time Cycle Modifiers</td><td align="center">🟩</td></tr><tr><td>Grass Batches</td><td align="center">🟩</td></tr><tr><td>LOD Lights</td><td align="center">🟩</td></tr></tbody></table>
 
 #### Archetype Definition (.ytyp)
 

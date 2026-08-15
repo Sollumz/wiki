@@ -4,12 +4,6 @@ description: Frequently Asked Questions
 
 # ❔ FAQ
 
-### How do I import files to Blender with Sollumz?
-
-* Sollumz can only import XML files exported from CodeWalker. Make sure you install the latest version of CodeWalker as described[ here](../#requirements).
-
-***
-
 ### When I import a YDR/YFT/YDD the textures are not loaded
 
 * From the CodeWalker RPF Explorer, open the asset with the textures.
@@ -118,3 +112,15 @@ Maximum recommended size for textures is 2048 to ensure your model is optimised.
 For Clothing textures, see&#x20;
 
 {% embed url="https://docs.sollumz.org/tutorials/basic-clothes-editing" %}
+
+***
+
+## Why can't I see CodeWalker XML to import or export files?
+
+Sollumz can now import and export native files as well as XML files. These are referred to as RAGE (Rockstar Advanced Game Engine) assets. This allows you to directly import files without exporting as XML.
+
+For example: db\_apart\_06.ydr or db\_apart\_06.ydr.xml\
+\
+There is the option in the export window to choose native or CW XML for Legacy (Gen8) or Enhanced (Gen9). Note, some files will still be required to be imported as XML.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-15 130223.png" alt=""><figcaption></figcaption></figure>

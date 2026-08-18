@@ -124,3 +124,23 @@ For example: db\_apart\_06.ydr or db\_apart\_06.ydr.xml\
 There is the option in the export window to choose native or CW XML for Legacy (Gen8) or Enhanced (Gen9). Note, some files will still be required to be imported as XML.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-15 130223.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Why do my props glow in game at night?
+
+VERTEX PAINTING is required for game assets self-illumination and lighting to show properly by reacting to ambient and moon light.
+
+A prop will glow a pinkish red colour at nightime, or be dark or black in an mlo if it has not had vertex paint applied.
+
+Vertex painting is only one component of modelling. Proper modelling to display assets depends on things like textures, timecyles and vertex paint among other parameters.
+
+The very basic rule for Vertex Painting is GREEN for inside MLOs, and RED for outdoors.
+
+Basic Guide to Paint
+
+<figure><img src="../.gitbook/assets/basic vp.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/adjust vp colour.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/vp_view.png" alt=""><figcaption></figcaption></figure>

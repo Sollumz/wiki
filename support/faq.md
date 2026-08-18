@@ -144,3 +144,10 @@ Basic Guide to Paint
 <figure><img src="../.gitbook/assets/adjust vp colour.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/vp_view.png" alt=""><figcaption></figcaption></figure>
+
+Vertex paint is not usually one colour. A mix of colours and gradient provides the best result for lighting in game. Below are some examples of the Ammunation building, both interior and exterior shells.
+
+<figure><img src="../.gitbook/assets/vp_ext.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/vp_int.png" alt=""><figcaption></figcaption></figure>
+

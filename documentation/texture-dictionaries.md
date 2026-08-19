@@ -22,3 +22,36 @@ This also works with embedded textures on drawables, fragments, and drawable dic
 
 <figure><img src="../.gitbook/assets/txd_embedded.png" alt="" width="563"><figcaption><p>HD embedded textures</p></figcaption></figure>
 
+{% hint style="info" %}
+Remember, HD texture dictionaries must be defined in your `_manifest.ymf`, under `HDTxdBindingArray`. For example:
+
+{% code lineNumbers="true" expandable="true" %}
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup" />
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding">
+  <Item>
+   <assetType>AT_DRB</assetType>
+   <targetAsset>prop_bbq_2</targetAsset>
+   <HDTxd>prop_bbq_2+hidr</HDTxd>
+  </Item>
+  <Item>
+   <assetType>AT_FRG</assetType>
+   <targetAsset>prop_flamingo</targetAsset>
+   <HDTxd>prop_flamingo+hifr</HDTxd>
+  </Item>
+  <Item>
+   <assetType>AT_TXD</assetType>
+   <targetAsset>prop_mower</targetAsset>
+   <HDTxd>prop_mower+hi</HDTxd>
+  </Item>
+ </HDTxdBindingArray>
+ <imapDependencies itemType="CImapDependency" />
+ <imapDependencies_2 itemType="CImapDependencies" />
+ <itypDependencies_2 itemType="CItypDependencies" />
+ <Interiors itemType="CInteriorBoundsFiles" />
+</CPackFileMetaData>
+```
+{% endcode %}
+{% endhint %}

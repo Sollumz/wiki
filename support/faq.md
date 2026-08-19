@@ -57,7 +57,13 @@ description: Frequently Asked Questions
 
 ### I created a collision (external or embedded) but it isn't working.
 
-* Remember to apply `General (default)` flags to your `Bound GeometryBVH` object from the `Sollumz Tools > Collision Tools > Flag Presets` menu.
+* Remember to apply `General (default)` flags to your `Bound GeometryBVH` object from the `Blender Side Bar > Object > Flag Presets` menu.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-19 142445.png" alt=""><figcaption></figcaption></figure>
+
+* If you have created a separate collision model (ybn) from your drawable model, you need to apply the world coordinates to the poly\_mesh.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-19 141831.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

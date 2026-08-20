@@ -31,8 +31,17 @@ description: Frequently Asked Questions
 ### I'm getting the message `No Sollumz objects in the scene to export!` or `No Sollumz objects selected for export!`
 
 * Check if the "Limit to Selected" export option is ticked. If so, only the selected objects will export.
-* Make sure all of your objects have their sollum type set, otherwise, they will not be recognized by the add-on.
-* As a last resort, you can select the parent object and use `Sollumz Tools > General > Debug > Fix Hierarchy`
+* Make sure all of your objects have their `Sollumz Type` set, otherwise, they will not be recognized by the add-on.
+
+***
+
+### I'm getting the error `model name has no Sollumz materials! Aborting...`
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-20 065636.png" alt=""><figcaption></figcaption></figure>
+
+* You did not add a Sollumz shader and/or a texture to your .model of the object.
+* Add a shader and a texture to your object _(see below for information on textures)._
+* Alternatively, your mesh object might not have its `Sollumz Type` set to `Drawable Model`.
 
 ***
 

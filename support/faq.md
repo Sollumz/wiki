@@ -166,3 +166,7 @@ Vertex paint is not usually one colour. A mix of colours and gradient provides t
 
 <figure><img src="../.gitbook/assets/vp_int.png" alt=""><figcaption></figcaption></figure>
 
+See the following tutorial for more information
+
+{% embed url="https://youtu.be/hBH1vZY8rWc?si=xnPgJrK_-1wnUsd1" %}
+

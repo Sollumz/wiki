@@ -170,3 +170,19 @@ See the following tutorial for more information
 
 {% embed url="https://youtu.be/hBH1vZY8rWc?si=xnPgJrK_-1wnUsd1" %}
 
+***
+
+## Why my MLO still raining?
+
+Mainly because you forgot to edit the **vanilla exterior YTYP**.
+
+To edit it, change the entity selection mode in CodeWalker to **Archetype Extension**. Visually, you'll see blue boxes around the CodeWalker viewport.
+
+<div align="center"><figure><img src="../.gitbook/assets/imagen_2026-09-22_154122972.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+_**Important:**_\
+You must check that the **DLC Level** is correct for your **game build**, especially for DLCs like `mpheist` or `mpbikers`, which are the most common ones you'll encounter when editing vanilla particles.
+
+<div align="center"><figure><img src="../.gitbook/assets/imagen_2026-09-22_155354029.png" alt="" width="503"><figcaption></figcaption></figure></div>
+
+_Now simply import the scene, the **exterior asset**, and **remove any particles you deem necessary.**_

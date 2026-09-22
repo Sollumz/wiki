@@ -186,3 +186,14 @@ You must check that the **DLC Level** is correct for your **game build**, especi
 <div align="center"><figure><img src="../.gitbook/assets/imagen_2026-09-22_155354029.png" alt="" width="503"><figcaption></figcaption></figure></div>
 
 _Now simply import the scene, the **exterior asset**, and **remove any particles you deem necessary.**_
+
+***
+
+## Why does the MLO disappear when entering first person but not in third person?
+
+The main reason is that you've assigned the **wrong Room ID** in the floor's collision material or the **portals are incorrectly assigned**.
+
+<div align="center"><figure><img src="../.gitbook/assets/imagen_2026-09-22_194153639.png" alt=""><figcaption></figcaption></figure></div>
+
+It is strongly recommended to **give your rooms clear, descriptive names** to avoid confusion.
+

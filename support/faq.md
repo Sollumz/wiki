@@ -197,3 +197,18 @@ The main reason is that you've assigned the **wrong Room ID** in the floor's col
 
 It is strongly recommended to **give your rooms clear, descriptive names** to avoid confusion.
 
+***
+
+## Why is there still grass if there's nothing in CodeWalker?
+
+There are **2 types of grass** in the game that are **not visible** in **CodeWalker.**
+
+* An example of **FurGrass**:
+
+<figure><img src="../.gitbook/assets/imagen_2026-09-23_142439289.png" alt="" width="563"><figcaption></figcaption></figure>
+
+* The **most common** to find are **ma@collisions**:
+
+<figure><img src="../.gitbook/assets/imagen_2026-09-23_142546808.png" alt="" width="563"><figcaption></figcaption></figure>
+
+**You should be aware** that some things in **CodeWalker** **are not displayed correctly.**

@@ -180,7 +180,8 @@ To edit it, change the entity selection mode in CodeWalker to **Archetype Extens
 
 <div align="center"><figure><img src="../.gitbook/assets/imagen_2026-09-22_154122972.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-_**Important:**_\
+_**Important:**_
+\
 You must check that the **DLC Level** is correct for your **game build**, especially for DLCs like `mpheist` or `mpbikers`, which are the most common ones you'll encounter when editing vanilla particles.
 
 <div align="center"><figure><img src="../.gitbook/assets/imagen_2026-09-22_155354029.png" alt="" width="503"><figcaption></figcaption></figure></div>
@@ -212,3 +213,9 @@ There are **2 types of grass** in the game that are **not visible** in **CodeWal
 <figure><img src="../.gitbook/assets/imagen_2026-09-23_142546808.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **You should be aware** that some things in **CodeWalker** **are not displayed correctly.**
+
+***
+
+### This is a test.
+
+This is a test.

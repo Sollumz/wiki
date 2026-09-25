@@ -106,7 +106,7 @@ UV Maps and Color Attribute should be changed to the following
 
 ***
 
-## I try to import a XML but nothing happens!
+### I try to import a XML but nothing happens!
 
 Make sure the "Import To Asset Library" checkbox is unchecked and try to import again.<br>
 
@@ -114,7 +114,7 @@ Make sure the "Import To Asset Library" checkbox is unchecked and try to import 
 
 ***
 
-#### I have embedded or linked a ytd to my model but it doesnt show.
+### I have embedded or linked a ytd to my model but it doesnt show.
 
 Sollumz required textures to be added to shaders. (see Creating Static Meshes)
 
@@ -130,7 +130,7 @@ For Clothing textures, see&#x20;
 
 ***
 
-## Why can't I see CodeWalker XML to import or export files?
+### Why can't I see CodeWalker XML to import or export files?
 
 Sollumz can now import and export native files as well as XML files. These are referred to as RAGE (Rockstar Advanced Game Engine) assets. This allows you to directly import files without exporting as XML.
 
@@ -142,7 +142,7 @@ There is the option in the export window to choose native or CW XML for Legacy (
 
 ***
 
-## Why do my props glow in game at night?
+### Why do my props glow in game at night?
 
 VERTEX PAINTING is required for game assets self-illumination and lighting to show properly by reacting to ambient and moon light.
 
@@ -154,17 +154,13 @@ The very basic rule for Vertex Painting is GREEN for inside MLOs, and RED for ou
 
 Basic Guide to Paint
 
-<figure><img src="../.gitbook/assets/basic vp.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/adjust vp colour.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/basic vp.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/adjust vp colour.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/vp_view.png" alt=""><figcaption></figcaption></figure>
 
 Vertex paint is not usually one colour. A mix of colours and gradient provides the best result for lighting in game. Below are some examples of the Ammunation building, both interior and exterior shells.
 
-<figure><img src="../.gitbook/assets/vp_ext.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/vp_int.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vp_ext.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vp_int.png" alt="" width="467"><figcaption></figcaption></figure></div>
 
 See the following tutorial for more information
 
@@ -172,7 +168,7 @@ See the following tutorial for more information
 
 ***
 
-## Why my MLO still raining?
+### Why my MLO still raining?
 
 Mainly because you forgot to edit the **vanilla exterior YTYP**.
 
@@ -189,7 +185,7 @@ _Now simply import the scene, the **exterior asset**, and **remove any particles
 
 ***
 
-## Why does the MLO disappear when entering first person but not in third person?
+### Why does the MLO disappear when entering first person but not in third person?
 
 The main reason is that you've assigned the **wrong Room ID** in the floor's collision material or the **portals are incorrectly assigned**.
 
@@ -199,7 +195,7 @@ It is strongly recommended to **give your rooms clear, descriptive names** to av
 
 ***
 
-## Why is there still grass if there's nothing in CodeWalker?
+### Why is there still grass if there's nothing in CodeWalker?
 
 There are **2 types of grass** in the game that are **not visible** in **CodeWalker.**
 

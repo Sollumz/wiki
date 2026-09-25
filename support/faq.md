@@ -84,33 +84,35 @@ description: Frequently Asked Questions
 
 ### Why the vertices amount is doubled or tripled after exporting my model?
 
-*   Vertices in Blender and in game meshes have different meaning. For Blender, it is basically just a position. For the game, it is position + attributes (normals, colors, UVs, etc). Closer to what Blender calls "Face Corners".<br>
+Vertices in Blender and in game meshes have different meaning. For Blender, it is basically just a position. For the game, it is position + attributes (normals, colors, UVs, etc). Closer to what Blender calls "Face Corners".
 
-    Don't think Blender shows the number of face corners anywhere without python, but after triangulization, it is basically number of faces\*3.<br>
+Blender does not show the number of face corners anywhere without scripting, but after triangulation, it is close to number of faces\*3.
 
-    On export, Sollumz removes duplicate face corners when it can, when position and all its attributes are the same. So the final vertex count in the game mesh is somewhere between number of vertices and number of face corners.<br>
+On export, Sollumz removes duplicate face corners when it can, when position and all its attributes are the same. So the final vertex count in the game mesh is somewhere between number of vertices and number of face corners.
 
-    Anyways, number of faces is more representative of the model quality/performance, so just use that, not vertices.
+Number of faces is more representative of the model quality/performance, so use that as references, not vertices.
 
 ***
 
 ### My model is invisible after importing to CodeWalker
 
-* Check the UV Maps and Color Attribute names, they have to follow the Sollumz naming convention. Sollumz is warning a user when names don't match.
+Check the UV Maps and Color Attribute names, they have to follow the Sollumz naming convention. Sollumz shows a warning when names don't match.
 
-<figure><img src="../.gitbook/assets/uv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/uv.png" alt="" width="402"><figcaption></figcaption></figure>
 
 UV Maps and Color Attribute should be changed to the following
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-07-26 100932.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-07-26 100932.png" alt="" width="265"><figcaption></figcaption></figure>
 
 ***
 
 ### I try to import a XML but nothing happens!
 
-Make sure the "Import To Asset Library" checkbox is unchecked and try to import again.<br>
+Make sure the "Import To Asset Library" checkbox is unchecked and try to import again.
 
-<figure><img src="../.gitbook/assets/Captura de tela 2025-07-18 201517.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2025-07-18 201517.png" alt="" width="284"><figcaption></figcaption></figure>
+
+Note, since 2.9 "Import To Asset Library" is a separate button and no longer an import setting.
 
 ***
 
